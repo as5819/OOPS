@@ -1,0 +1,7 @@
+import java.util.Collections;
+
+public class UC1_2 {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
